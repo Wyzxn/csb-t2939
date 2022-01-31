@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wyzxn.github.io/csb-t2939/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wyzxn.github.io/csb-t2939/static/js/main.22d115f6.chunk.js",
+    "main.js.map": "https://wyzxn.github.io/csb-t2939/static/js/main.22d115f6.chunk.js.map",
+    "runtime-main.js": "https://wyzxn.github.io/csb-t2939/static/js/runtime-main.2b9dfe7e.js",
+    "runtime-main.js.map": "https://wyzxn.github.io/csb-t2939/static/js/runtime-main.2b9dfe7e.js.map",
+    "static/js/2.57e36ffc.chunk.js": "https://wyzxn.github.io/csb-t2939/static/js/2.57e36ffc.chunk.js",
+    "static/js/2.57e36ffc.chunk.js.map": "https://wyzxn.github.io/csb-t2939/static/js/2.57e36ffc.chunk.js.map",
+    "index.html": "https://wyzxn.github.io/csb-t2939/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wyzxn.github.io/csb-t2939/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.57e36ffc.chunk.js.LICENSE.txt": "https://wyzxn.github.io/csb-t2939/static/js/2.57e36ffc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b9dfe7e.js",
+    "static/js/2.57e36ffc.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.22d115f6.chunk.js"
+  ]
+}

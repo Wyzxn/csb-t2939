@@ -1,0 +1,2 @@
+(this.webpackJsonpzombiesprojekt=this.webpackJsonpzombiesprojekt||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c(3),s=c.n(r),i=(c(8),c(0));function o(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"Hello Mr Zhang"}),Object(i.jsx)("h2",{children:"HELLO"})]})}var j=document.getElementById("root");s.a.render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(o,{})}),j)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.22d115f6.chunk.js.map
